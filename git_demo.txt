@@ -1,0 +1,62 @@
+discuss git on whiteboard
+cd Google\ Drive/scicomp_groupmeeting/
+ls
+git init mynewproject
+cd mynewproject/
+ls
+<copy in some files>
+ls
+git add *
+git status
+git commit -a -m "added some text files"
+<change one of the files>
+git commit -a -m "changed BC trip"
+git log
+git log --oneline
+git diff commit
+git checkout commit-id file
+
+discuss python from cmd:
+python (discuss path, interpreted language, .py files)
+x = range(10)
+x
+print(x)
+sum(x)
+mean(x)
+:(
+exit()
+
+ipython
+x = range(10)
+x
+print(x)
+sum(x)
+mean(x)
+:(
+discuss libraries on whiteboard
+%pylab
+mean(x)
+sin(x)
+plot(x, sin(x))
+
+cd .. (goes back one level)
+cd run_length_data/
+cd code
+ipython notebook
+click gsspeeds
+show data file (mention can export csv from excel, or read directly from excel)
+add comments and section headings
+clear cells
+execute cells
+Add comment on t-test with text
+same for run lengths
+show .eps files going into illustrator
+show exporting:
+ipython nbconvert GSspeeds.ipynb --to=html
+ipython nbconvert GSspeeds.ipynb --to=latex --post=pdf
+
+show R doing similiar things
+
+show asana
+
+

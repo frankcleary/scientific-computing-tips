@@ -1,0 +1,6 @@
+array([[<matplotlib.axes.AxesSubplot object at 0x000000000A3E4518>,
+        <matplotlib.axes.AxesSubplot object at 0x000000000A996898>,
+        <matplotlib.axes.AxesSubplot object at 0x000000000A74DF28>],
+       [<matplotlib.axes.AxesSubplot object at 0x000000000AD0E2E8>,
+        <matplotlib.axes.AxesSubplot object at 0x000000000AD31278>,
+        <matplotlib.axes.AxesSubplot object at 0x000000000AE9A908>]], dtype=object)

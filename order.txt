@@ -1,0 +1,25 @@
+git init
+git add *
+git status
+git commit -a -m "initial commit"
+cd code
+download anaconda
+dicuss path variable
+ipython notebook
+
+Show run length with fit curves
+
+Show GS speed histogram plotting
+(default + some modifications)
+Show marking up an ipython file
+
+Show creating new folder for figures
+Show save as ".eps", import to illustrator
+show version control with git/illustrator
+commit initial
+commit changed
+commit new file
+checkout complete initial commit
+checkout only .ai file from initial commit
+
+Show exporting to html and pdf
